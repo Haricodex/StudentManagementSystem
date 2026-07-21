@@ -2,5 +2,7 @@
 
 
 
-This project manages students, attendance and marks.
+Developer A:
+
+Attendance module completed successfully.
 
